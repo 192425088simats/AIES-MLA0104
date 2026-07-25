@@ -21,3 +21,21 @@ Print visited nodes
 
 STOP
 
+#DFS
+
+START
+
+Read graph
+Read starting node
+
+Mark current node as visited
+
+FOR each neighbour of current node
+    IF neighbour is not visited
+        Call DFS(neighbour)
+    END IF
+END FOR
+
+Print visited nodes
+
+STOP
