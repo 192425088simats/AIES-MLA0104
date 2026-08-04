@@ -1,3 +1,4 @@
+BFS
 CREATE empty Queue Q
 CREATE empty set Visited
 
